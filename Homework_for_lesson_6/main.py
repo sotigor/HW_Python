@@ -48,7 +48,6 @@ print(f'The list of common elements from lists \n{list_1} and {list_2} is: {list
 # Task_3. Creating a list with integers which divisible by 7 but not a multiple of 5
 
 cons_list = list(range(1,101))
-print(cons_list)
 counter = 0
 new_list = []
 while counter < len(cons_list)-1:
